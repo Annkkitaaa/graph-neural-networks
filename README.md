@@ -2,6 +2,7 @@
 ## What is a Graph Neural Network (GNN)?
 
 A Graph Neural Network (GNN) is a type of neural network that operates on graph-structured data. Graphs are mathematical structures consisting of nodes (vertices) and edges (connections between nodes). GNNs leverage the inherent structure of graphs to learn representations of nodes and edges, enabling powerful machine learning models for tasks such as node classification, link prediction, graph classification, and more.
+
 ![image](https://github.com/Annkkitaaa/graph-neural-networks/assets/100662026/37699210-28fd-4b68-932d-e3ae2f5f3f0c)
 
 ## Components of Graph Neural Networks:
